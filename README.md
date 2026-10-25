@@ -32,6 +32,24 @@ Therefore, in this project:
 
 No password was requested, and none must be entered here.
 
+## WHAT THIS PROJECT CANNOT DO — ADDED 2026-10-25 AT SHAIK'S REQUEST
+
+This project CANNOT do the following, and these limits are part of
+the project, not just a note:
+
+1. Discover Snapchat friends, send friend requests, read chats, or
+   send messages automatically — there's no permitted Snapchat
+   integration for that, and I won't use an unofficial login to
+   fake it.
+2. Guess religion, age, or location from a name or photo — those
+   stay "unknown" until she volunteers them.
+3. Run daily on its own hunting for matches, or keep running on
+   GitHub until you have a girlfriend.
+
+GitHub does not keep this project running in the background. The
+project stays active in Muse for manual, approval-only work only,
+until shaik himself says he has found a partner and wants it closed.
+
 ## APPROVAL-BASED ALTERNATIVE THAT IS BUILT AND TESTED
 
 Everything below is local-only and never sends anything to Snapchat or
@@ -113,10 +131,11 @@ on push / pull request / manual dispatch. It does NOT:
 approval-only project active in Muse (manual drafts, tracking,
 notification + pause on a Promising match) until shaik himself says
 he has found a partner and wants it closed. It is NOT a GitHub
-Actions job that hunts for matches in the background. Any GitHub
-repo for this personal project should preferably be PRIVATE, because
-it contains his dating preferences and drafts — visibility needs
-his explicit choice before any push.
+Actions job that hunts for matches in the background. NOTE 2026-10-25:
+shaik explicitly chose to make this repo PUBLIC for free Actions
+(Tests #4 passed), superseding the earlier private preference.
+That choice means the preferences and drafts in this repo are
+publicly visible.
 
 ## FILES
 
